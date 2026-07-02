@@ -2,7 +2,7 @@
 
 int main()
 {
-    char statement[3] = "";
+    char s[4] = "";
     int count = 0, n = 0, x = 0;
 
     scanf("%d", &n);
@@ -12,18 +12,17 @@ int main()
     {
         while (x < n)
         {
-            scanf("%s", statement);
+            scanf("%s", s);
             getchar();
 
-            if ((statement[0] == '-' && statement[1] == '-' && statement[2] == 'X') || (statement[0] == 'X' && statement[1] == '-' && statement[2] == '-'))
+            if ((s[0] == '-' && s[1] == '-' && s[2] == 'X') || (s[0] == 'X' && s[1] == '-' && s[2] == '-'))
             {
                 count = count - 1;
             }
-            else if ((statement[0] == '+' && statement[1] == '+' && statement[2] == 'X') || (statement[0] == 'X' && statement[1] == '+' && statement[2] == '+'))
+            else if ((s[0] == '+' && s[1] == '+' && s[2] == 'X') || (s[0] == 'X' && s[1] == '+' && s[2] == '+'))
             {
                 count = count + 1;
             }
-
             x = x + 1;
         }
         printf("%d\n", count);
