@@ -1,3 +1,8 @@
+/*
+    Codeforces 266A solution - v1.0.0 - 03/07/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

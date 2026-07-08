@@ -1,3 +1,8 @@
+/*
+    Codeforces 41A solution - v1.0.1 - 26/06/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

@@ -1,3 +1,8 @@
+/*
+    Codeforces 2014B solution - v1.0.0 - 27/06/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 
 int main()

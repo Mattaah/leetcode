@@ -1,3 +1,8 @@
+/*
+    Codeforces 230B solution - v1.0.0 - 26/06/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,8 @@
+/*
+    Codeforces 158A solution - v1.0.0 - 29/06/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
  

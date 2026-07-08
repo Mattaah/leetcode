@@ -1,3 +1,8 @@
+/*
+    Codeforces 339A solution - v1.0.0 - 30/06/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 #include <string.h>
 

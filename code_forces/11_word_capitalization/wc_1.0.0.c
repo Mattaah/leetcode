@@ -1,3 +1,8 @@
+/*
+    Codeforces 281A solution - v1.0.0 - 02/07/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 
 int main()

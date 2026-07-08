@@ -1,3 +1,8 @@
+/*
+    Codeforces 231A solution - v1.0.0 - 28/06/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])

@@ -1,3 +1,8 @@
+/*
+    Codeforces 1703A solution - v1.0.0 - 07/07/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 
 int main()

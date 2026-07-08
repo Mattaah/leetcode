@@ -1,3 +1,8 @@
+/*
+    Codeforces 50A solution - v1.0.0 - 04/07/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 
 int main(int argc, int *argv[])
