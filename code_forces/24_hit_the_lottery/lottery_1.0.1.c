@@ -1,3 +1,8 @@
+/*
+    Codeforces 996A solution - v1.0.1 - 08/07/2026
+    Author: Mattah
+*/
+
 #include <stdio.h>
 
 int main()
