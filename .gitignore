@@ -55,9 +55,8 @@ dkms.conf
 # debug information files
 *.dwo
 
-# template archive
+# template files
 template.txt
 
-=======
+# vscode files
 .vscode/
->>>>>>> 345c65e (first leetcode)
