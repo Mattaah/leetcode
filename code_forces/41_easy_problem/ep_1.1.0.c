@@ -17,11 +17,7 @@ int main()
         scanf("%d", &value);
         getchar();
 
-        o_pair = 0;
-        for (int y = 1; y < value; y = y + 1)
-        {
-            o_pair = o_pair + 1;
-        }
+        o_pair = value - 1;
 
         printf("%d\n", o_pair);
     }
