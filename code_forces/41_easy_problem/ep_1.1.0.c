@@ -1,5 +1,5 @@
 /*
-    Codeforces 2044A solution - v1.0.0 - 13/07/2026
+    Codeforces 2044A solution - v1.1.0 - 13/07/2026
     Author: Mattah
 */
 
